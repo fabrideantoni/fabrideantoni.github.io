@@ -1,9 +1,9 @@
 ---
-layout: CV
-title: Curriculum Vitae
+layout: CurriV
+title: Curriculum Vitae prueba
 ---
 
-# Curriculum Vitæ
+# Curriculum Vitæ prueba2
 
 {% include contact.html %}
 
