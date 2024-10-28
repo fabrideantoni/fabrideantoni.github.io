@@ -1,6 +1,6 @@
 ---
-layout: cv
-title: CV
+layout: CV
+title: Curriculum Vitae
 ---
 
 # Curriculum Vitæ
