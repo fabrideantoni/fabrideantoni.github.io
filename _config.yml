@@ -1,7 +1,7 @@
 title: "Fabricio Dam Deantoni"
 description: "Bienvenido a mi Curriculum"
-baseurl: ""
-url: ""
+baseurl: "https://fabrideantoni.github.io"
+url: "https://fabrideantoni.github.io"
 
 exclude:
   - demo/
