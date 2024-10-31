@@ -38,10 +38,10 @@ and exploring other languages and tools, always staying up-to-date with the late
 
 In my free time:
 
-*I enjoy going for walks.
-*Playing volleyball.
-*Following motorsports.
-*Spending time on the computer exploring new technologies and topics of interest.
+* I enjoy going for walks.
+* Playing volleyball.
+* Following motorsports.
+* Spending time on the computer exploring new technologies and topics of interest.
 
 ### Subsection
 
