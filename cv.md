@@ -45,7 +45,7 @@ In my free time:
 
 ### Subsection
 
-This website was created using: HTML, SCSS, CSS, and JavaScript.
+This website was created using: HTML. SCSS. CSS. JavaScript.
 
 Thank you for taking the time to get to know me.
 
