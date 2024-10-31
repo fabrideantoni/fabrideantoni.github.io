@@ -3,19 +3,30 @@ layout: cv
 title: CV
 ---
 
-# Curriculum Vitæ
+# CURRICULUM VITAE
 
 {% include contact.html %}
 
-## Section
+## Sobre mi
 
-Probando si esto modifica algo.
+Hola, mi nombre es Fabricio. Soy programador con un enfoque en Python y SQL, 
+actualmente sigo estudiando para mejorar y expandir mis habilidades en desarrollo. Me apasiona aprender
+y explorar otros lenguajes y herramientas, manteniéndome siempre al día con las novedades del mundo de la programación.
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+En mi tiempo libre:
 
-### Subsection
+* Disfruto salir a caminar.
+* Jugar vóley.
+* Seguir el automovilismo.
+* Pasar tiempo en la computadora explorando nuevas tecnologías y temas de interés.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Subsección
+
+Esta pagina web, fue realizada utilizando:
+HTML.
+SCSS.
+CSS.
+JavaScript.
+
+Gracias por tomarse el tiempo para conocerme.
+
